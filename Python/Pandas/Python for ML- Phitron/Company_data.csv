@@ -1,0 +1,9 @@
+,Name,City,Department,Salary,Country,Need to pay Tax
+0,Alice,New York,HR,50000,Bangladesh,False
+1,Bob,Los Angeles,IT,60000,Bangladesh,False
+2,Charlie,Newark,Finance,55000,Bangladesh,False
+3,David,Boston,IT,70000,Bangladesh,True
+4,Eve,New Delhi,HR,52000,Bangladesh,False
+5,Frank,Chicago,Marketing,58000,Bangladesh,False
+6,Grace,New York,Finance,62000,Bangladesh,True
+7,Hannah,Houston,HR,51000,Bangladesh,False
